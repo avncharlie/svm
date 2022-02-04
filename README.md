@@ -4,6 +4,8 @@ A register-pointer JavaScript virtual machine written in JavaScript.
 ## Usage
 
 ### Building
+Run `npm install` from each of the `assembler`, `client`, `compiler`, `obtfuscator` and `preprocessor` directories.
+
 Create `index.js` in the `src` directory, then run `./build.sh` with the repository directory as your current working directory.
 
 ### Running
